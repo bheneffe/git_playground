@@ -1,6 +1,6 @@
 module uart (
     input logic clk,
-    input logic rst_n,
+    input logic rstn,
     input logic rx,
     output logic tx
 );
