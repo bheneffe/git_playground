@@ -7,4 +7,5 @@ module spi (
     input logic cs_n
 );
     // SPI implementation here
+    assign miso = mosi; // Loopback for synthesis
 endmodule
