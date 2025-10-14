@@ -4,5 +4,6 @@ module uart (
     input logic rx,
     output logic tx
 );
+assign tx = rx; // Loopback for simulation
     // UART implementation here
 endmodule
