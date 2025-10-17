@@ -77,14 +77,6 @@ style: |
 *Don't hesitate to interrupt to ask questions.* ✋/💬
 
 ---
-# Audience: Rate yourself
-
-
-<center>
-<img src="intro_image.webp" width="700">
-</center>
-
----
 <center>
 
 # 🛠️ Tools<a id="tools"></a>
